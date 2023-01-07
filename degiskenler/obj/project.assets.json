@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sametartul/Desktop/git/c#/pratikler/degiskenler/degiskenler.csproj",
+      "projectUniqueName": "/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/degiskenler/degiskenler.csproj",
       "projectName": "degiskenler",
-      "projectPath": "/Users/sametartul/Desktop/git/c#/pratikler/degiskenler/degiskenler.csproj",
+      "projectPath": "/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/degiskenler/degiskenler.csproj",
       "packagesPath": "/Users/sametartul/.nuget/packages/",
-      "outputPath": "/Users/sametartul/Desktop/git/c#/pratikler/degiskenler/obj/",
+      "outputPath": "/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/degiskenler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sametartul/.nuget/NuGet/NuGet.Config"

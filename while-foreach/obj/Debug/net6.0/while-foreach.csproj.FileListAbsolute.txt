@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/bin/Debug/net6.0/while-foreach
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/bin/Debug/net6.0/while-foreach.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/bin/Debug/net6.0/while-foreach.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/bin/Debug/net6.0/while-foreach.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/bin/Debug/net6.0/while-foreach.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/while-foreach.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/while-foreach.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/while-foreach.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/while-foreach.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/while-foreach.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/refint/while-foreach.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/while-foreach.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/while-foreach.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/while-foreach/obj/Debug/net6.0/ref/while-foreach.dll

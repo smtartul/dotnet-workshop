@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/bin/Debug/net6.0/try-catch
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/bin/Debug/net6.0/try-catch.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/bin/Debug/net6.0/try-catch.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/bin/Debug/net6.0/try-catch.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/bin/Debug/net6.0/try-catch.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/try-catch.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/try-catch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/try-catch.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/try-catch.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/try-catch.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/try-catch.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/refint/try-catch.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/try-catch.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/try-catch.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/try-catch/obj/Debug/net6.0/ref/try-catch.dll

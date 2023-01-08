@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/bin/Debug/net6.0/if-elseif
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/bin/Debug/net6.0/if-elseif.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/bin/Debug/net6.0/if-elseif.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/bin/Debug/net6.0/if-elseif.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/bin/Debug/net6.0/if-elseif.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/if-elseif.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/if-elseif.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/if-elseif.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/if-elseif.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/if-elseif.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/refint/if-elseif.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/if-elseif.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/if-elseif.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/if-elseif/obj/Debug/net6.0/ref/if-elseif.dll

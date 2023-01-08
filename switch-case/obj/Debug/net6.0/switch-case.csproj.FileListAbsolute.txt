@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/bin/Debug/net6.0/switch-case
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/bin/Debug/net6.0/switch-case.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/bin/Debug/net6.0/switch-case.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/switch-case.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/refint/switch-case.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/switch-case.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/switch-case/obj/Debug/net6.0/ref/switch-case.dll

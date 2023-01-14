@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/bin/Debug/net6.0/recursive-extension
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/bin/Debug/net6.0/recursive-extension.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/bin/Debug/net6.0/recursive-extension.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/bin/Debug/net6.0/recursive-extension.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/bin/Debug/net6.0/recursive-extension.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/recursive-extension.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/recursive-extension.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/recursive-extension.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/recursive-extension.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/recursive-extension.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/refint/recursive-extension.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/recursive-extension.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/recursive-extension.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/recursive-extension/obj/Debug/net6.0/ref/recursive-extension.dll

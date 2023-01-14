@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/bin/Debug/net6.0/methods
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/bin/Debug/net6.0/methods.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/bin/Debug/net6.0/methods.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/bin/Debug/net6.0/methods.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/methods.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/refint/methods.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/methods.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/methods/obj/Debug/net6.0/ref/methods.dll

@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/bin/Debug/net6.0/method-overloading
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/bin/Debug/net6.0/method-overloading.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/bin/Debug/net6.0/method-overloading.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/bin/Debug/net6.0/method-overloading.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/bin/Debug/net6.0/method-overloading.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/method-overloading.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/method-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/method-overloading.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/method-overloading.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/method-overloading.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/method-overloading.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/refint/method-overloading.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/method-overloading.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/method-overloading.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/method-overloading/obj/Debug/net6.0/ref/method-overloading.dll

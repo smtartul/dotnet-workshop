@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/bin/Debug/net6.0/datetime-math
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/bin/Debug/net6.0/datetime-math.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/bin/Debug/net6.0/datetime-math.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/bin/Debug/net6.0/datetime-math.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/bin/Debug/net6.0/datetime-math.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/datetime-math.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/datetime-math.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/datetime-math.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/datetime-math.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/datetime-math.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/refint/datetime-math.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/datetime-math.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/datetime-math.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/datetime-math/obj/Debug/net6.0/ref/datetime-math.dll

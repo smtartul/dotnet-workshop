@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/bin/Debug/net6.0/05-task5
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/bin/Debug/net6.0/05-task5.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/bin/Debug/net6.0/05-task5.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/bin/Debug/net6.0/05-task5.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/bin/Debug/net6.0/05-task5.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/05-task5.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/05-task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/05-task5.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/05-task5.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/05-task5.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/05-task5.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/refint/05-task5.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/05-task5.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/05-task5.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/05-task5/obj/Debug/net6.0/ref/05-task5.dll

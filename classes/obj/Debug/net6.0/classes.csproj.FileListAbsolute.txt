@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/bin/Debug/net6.0/classes
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/bin/Debug/net6.0/classes.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/bin/Debug/net6.0/classes.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/bin/Debug/net6.0/classes.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/bin/Debug/net6.0/classes.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/classes.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/classes.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/classes.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/classes.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/classes.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/refint/classes.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/classes.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/classes.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/classes/obj/Debug/net6.0/ref/classes.dll

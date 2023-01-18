@@ -1,0 +1,15 @@
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/bin/Debug/net6.0/enum
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/bin/Debug/net6.0/enum.deps.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/bin/Debug/net6.0/enum.runtimeconfig.json
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/bin/Debug/net6.0/enum.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/bin/Debug/net6.0/enum.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/enum.csproj.AssemblyReference.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/enum.AssemblyInfoInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/enum.AssemblyInfo.cs
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/enum.csproj.CoreCompileInputs.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/enum.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/refint/enum.dll
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/enum.pdb
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/enum.genruntimeconfig.cache
+/Users/sametartul/Desktop/git/c#/pratikler/dotnet-workshop/enum/obj/Debug/net6.0/ref/enum.dll
